@@ -29,15 +29,7 @@ $slick-opacity-not-active: 0.25 !default;
         @return url($slick-loader-path + $url);
     }
 }
-
-@function slick-font-url($url) {
-    @if function-exists(font-url) {
-        @return font-url($url);
-    }
-    @else {
-        @return url($slick-font-path + $url);
-    }
-}
+ 
 
 /* Slider */
 
