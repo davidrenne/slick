@@ -1,7 +1,7 @@
 {
-  "name": "slick-carousel",
+  "name": "slick-carousel-no-fonts",
   "version": "1.6.0",
-  "description": "the last carousel you'll ever need",
+  "description": "the last carousel you'll ever need - except removing fonts in Less files",
   "main": "slick/slick.js",
   "repository": {
     "type": "git",
